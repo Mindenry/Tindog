@@ -28,9 +28,4 @@ TinDog is a fun and engaging dating app designed exclusively for dogs. Whether y
 ## 🌟 Contributing
 We welcome contributions! Feel free to submit a pull request or open an issue for improvements.
 
-## 📜 License
-This project is licensed under the MIT License.
-
-## 📞 Contact
-For any inquiries, reach out at [your-email@example.com](mailto:your-email@example.com).
 
